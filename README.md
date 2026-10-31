@@ -32,7 +32,7 @@ I write KQL detection rules and threat hunts for Microsoft Sentinel and Microsof
 
 ## Outside security
 
-Aspiring filmmaker 🎬
+Options trader 📈
 
 ## Connect
 
