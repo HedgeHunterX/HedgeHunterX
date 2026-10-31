@@ -36,8 +36,8 @@ I write KQL detection rules and threat hunts for Microsoft Sentinel and Microsof
 
 ## Projects
 
-- [KQL-Detection-Rules](https://github.com/Manish041998/KQL-Detection-Rules): Sentinel and Defender XDR detections, mapped to MITRE ATT&CK
-- [Wazuh](https://github.com/Manish041998/Wazuh): open-source SIEM and XDR lab work
+- [KQL-Detection-Rules](https://github.com/HedgeHunterX/KQL-Detection-Rules): Sentinel and Defender XDR detections, mapped to MITRE ATT&CK
+- [Wazuh](https://github.com/HedgeHunterX/Wazuh): open-source SIEM and XDR lab work
 
 ## Outside security
 
