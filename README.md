@@ -33,3 +33,7 @@ I write KQL detection rules and threat hunts for Microsoft Sentinel and Microsof
 ## Outside security
 
 Aspiring filmmaker 🎬
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-m-721384221)
